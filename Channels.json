@@ -1,0 +1,913 @@
+{
+    "PID": "eykd8397f75ba191c138fjll9307a886a13f9339djh38de4323cb26cb7h37f9dj3d7cd847ac1353j8l, as38d4ca98629553ee932, ya209a5ad8ea3533924hd93k9ab0bebf9ce703kd, es9d3j10bed7ea78a839dk",
+    "SystemMessage":
+        {
+            "DST" : "",
+            "Repeat" : "3",
+            "Message" : ""
+        },
+    "TimeZoneOffset": "2",
+    "Channels": [
+        {
+            "Title": "מונדיאל  FS1 2022",
+            "TitleEng": "Mondial 2022",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Qatar2022.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "82541",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium39/index.m3u8"
+            ]
+        },
+        {
+            "Title": "Fox מונדיאל 2022",
+            "TitleEng": "Mondial 2022",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Qatar2022.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "12376",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium54/index.m3u8"
+            ]
+        },
+        {
+            "Title": "כאן 11",
+            "TitleEng": "Kan 11",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
+            "EPGProvider": "Walla",
+            "EPGStationId": "3770",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8",
+                "https://webudi.openhd.lol/lb/premium548/index.m3u8",
+                "https://www.dailymotion.com/player/metadata/video/x7wjmog",
+                "http://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"
+            ]
+        },
+        {
+            "Title": "קשת 12",
+            "TitleEng": "Keshet 12",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",
+            "EPGProvider": "Mako",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
+                "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8",
+                "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_2200.m3u8",
+                "http://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8",
+                "https://webudi.openhd.lol/lb/premium549/index.m3u8"
+            ]
+        },
+        {
+            "Title": "רשת 13",
+            "TitleEng": "Reshet 13",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg",
+            "EPGProvider": "Reshet",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
+                "http://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+                "http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8"
+            ]
+        },
+        {
+            "Title": "האח הגדול",
+            "TitleEng": "Big Brother",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",
+            "OnlyInIsrael" : "True",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר 24x7 במהלך העונה.",        
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8"
+            ]
+        },        
+        {
+            "Title": "חדשות N12",
+            "TitleEng": "N12 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/n12.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "מהדורת החדשות האחרונה. מתעדכן כל יום בשעה .22:00",        
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4/playlist.m3u8",
+                "https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index_2200.m3u8"
+            ]
+        },        
+        {
+            "Title": "ספורט 1",
+            "TitleEng": "Sport 1",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "2",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium140/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 2",
+            "TitleEng": "Sport 2",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "3",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium141/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 3",
+            "TitleEng": "Sport 3",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "4",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium142/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 4",
+            "TitleEng": "Sport 4",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "5",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium143/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 5",
+            "TitleEng": "Sport 5",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "5",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium144/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 5 פלוס",
+            "TitleEng": "Sport 5 Plus",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "5P",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium145/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 5 לייב",
+            "TitleEng": "Sport 5 Live",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "LIVE",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium146/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 5 סטארס",
+            "TitleEng": "Sport 5 Stars",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "5STARS",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium147/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 5 גולד",
+            "TitleEng": "Sport 5 Gold",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "GOLD",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium148/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 1 One",
+            "TitleEng": "Sport One 1",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",
+            "EPGProvider": "Walla",
+            "EPGStationId": "3551",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium541/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 2 One",
+            "TitleEng": "Sport One 2",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium542/index.m3u8"
+            ]
+        },
+        {
+            "Title": "אי אס פי אן",
+            "TitleEng": "ESPN",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "10179",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium44/index.m3u8"
+            ]
+        },
+        {
+            "Title": "אי אס פי אן 2",
+            "TitleEng": "ESPN 2",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "12444",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium45/index.m3u8"
+            ]
+        },
+        {
+            "Title": "אן אף אל נטוורק",
+            "TitleEng": "NFL Network",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "45399",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium405/index.m3u8"
+            ]
+        },
+        {
+            "Title": "סקיי ספורטס אן.אפ.אל",
+            "TitleEng": "Sky Sports NFL",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium37/index.m3u8"
+            ]
+        },
+        {
+            "Title": "סקיי ספורטס אירוע מרכזי",
+            "TitleEng": "Sky Sports Main Event",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium38/index.m3u8"
+            ]
+        },
+        {
+            "Title": "יס סרטי ילדים",
+            "TitleEng": "Yes Movies Kids",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium544/index.m3u8"
+            ]
+        },
+        {
+            "Title": "יס סרטי פעולה",
+            "TitleEng": "Yes Movies Action",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium543/index.m3u8"
+            ]
+        },
+        {
+            "Title": "יס סרטי קומדיה",
+            "TitleEng": "Yes Movies Comedy",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium545/index.m3u8"
+            ]
+        },
+        {
+            "Title": "ערוץ 24 החדש",
+            "TitleEng": "Channel 24",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
+            "EPGProvider": "Walla",
+            "EPGStationId": "255",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "http://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u8",
+                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
+            ]
+        },
+        {
+            "Title": "ערוץ הכנסת",
+            "TitleEng": "Knesset",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Knesset.png",
+            "EPGProvider": "Knesset",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "סי אן אן",
+            "TitleEng": "CNN",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "CNN",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://usnewson.com/ https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://s2.usnlive.com/stream/cnn.m3u8",
+                "https://webudi.openhd.lol/lb/premium345/index.m3u8",
+                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"
+            ]
+        },
+        {
+            "Title": "איי בי סי ניוז",
+            "TitleEng": "ABC News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "113380",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+            ]
+        },
+        {
+            "Title": "אן בי סי ניוז",
+            "TitleEng": "NBC News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png",
+            "EPGProvider": "NBC News ENG",
+            "EPGStationId": "NEWS_NOW",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8"
+            ]
+        },
+        {
+            "Title": "דיסקברי",
+            "TitleEng": "Discovery",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Discovery.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "DSC",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:http://tv247.us/ https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "http://live.tv247.club/tv247/discovery.m3u8",
+                "https://webudi.openhd.lol/lb/premium313/index.m3u8"
+            ]
+        },
+        {
+            "Title": "היסטוריה",
+            "TitleEng": "History",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/History.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "HIST",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:http://tv247.us/ https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "http://live.tv247.club/tv247/history.m3u8",
+                "https://webudi.openhd.lol/lb/premium322/index.m3u8"
+            ]
+        },
+        {
+            "Title": "נשיונל גיאוגרפיק",
+            "TitleEng": "National Geographic",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NationalGeographic.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "NGC",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium328/index.m3u8"
+            ]
+        },        
+        {
+            "Title": "בית וגן",
+            "TitleEng": "HGTV",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HGTV.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "HGTV",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:http://tv247.us/"
+            ],
+            "StreamUrls": [
+                "https://content.uplynk.com/742vTsU/index.m3u8?channel=HGTV",
+                "http://live.tv247.club/tv247/hgtv.m3u8"
+            ]
+        },
+        {
+            "Title": "עשה זאת בעצמך",
+            "TitleEng": "DIY",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/DIY.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "67375",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://content.uplynk.com/742vTsU/index.m3u8?channel=DIY"
+            ]
+        },
+        {
+            "Title": "טיולים",
+            "TitleEng": "Travel",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Travel.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "TRAVEL",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:http://tv247.us/ https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://content.uplynk.com/742vTsU/index.m3u8?channel=Travel",
+                "https://webudi.openhd.lol/lb/premium340/index.m3u8"
+            ]
+        },
+        {
+            "Title": "חדשות קומו 4",
+            "TitleEng": "Komo 4 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Komo4News.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=140"
+            ]
+        },
+        {
+            "Title": "חדשות קינג 5",
+            "TitleEng": "King 5 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233",
+                "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8",
+                "https://csm-e-cetubiausw2live204-0452e8718248683e8.csm.tubi.video/csm/live/436561509/manifest.m3u8"
+            ]
+        },
+        {
+            "Title": "חדשות קירו 7",
+            "TitleEng": "Kiro 7 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kiro7News.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kiro7seattle-ono/playlist.m3u8",
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106"
+            ]
+        },
+        {
+            "Title": "חדשות קיו 13",
+            "TitleEng": "Q13 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8"
+            ]
+        },
+        {
+            "Title": "סריקה",
+            "TitleEng": "Scan",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "חיפוש ערוצים בלחיצה על חץ למעלה (+1), למטה (1-), ימינה (+100) או שמאלה (100-).",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium[1]-[600]/index.m3u8"
+            ]
+        },
+        {
+            "Title": "רדיו ספורט 5",
+            "TitleEng": "Radio Sport 5",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",
+            "EPGProvider": "Sport5",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8"
+            ]
+        },
+        {
+            "Title": "גל'צ",
+            "TitleEng": "Galaz",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+            ]
+        },
+        {
+            "Title": "גלגל'צ",
+            "TitleEng": "Galgalaz",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+            ]
+        },
+        {
+            "Title": "גלגל'צ אלטרנטיבי",
+            "TitleEng": "Galgalaz - Alternative",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-alt.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt"
+            ]
+        },
+        {
+            "Title": "גלגל'צ רוק קלאסי",
+            "TitleEng": "Galgalaz - Classic Rock",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-rock.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_rock_mp3?awCollectionId=misc&awEpisodeId=glglz_rock"
+            ]
+        },
+        {
+            "Title": "גלגל'צ ים תיכוני",
+            "TitleEng": "Galgalaz - Mediterranean",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-med.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_med_mp3?awCollectionId=misc&awEpisodeId=glglz_med"
+            ]
+        },
+        {
+            "Title": "גלגל'צ גל עברי",
+            "TitleEng": "Galgalaz - Hebrew",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-classicil.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil"
+            ]
+        },
+        {
+            "Title": "גלגל'צ להיטים חמים",
+            "TitleEng": "Galgalaz - Hits",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-hits.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+            ]
+        },
+        {
+            "Title": "גלגל'צ סופשבוע רגוע",
+            "TitleEng": "Galgalaz - Calm Weekend",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-sofshavua.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3?awCollectionId=misc&awEpisodeId=glglz_sofshavua"
+            ]
+        },
+        {
+            "Title": "88FM",
+            "TitleEng": "88FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://kanliveicy.media.kan.org.il/icy/kan88_mp3"
+            ]
+        },
+        {
+            "Title": "רדיו 90 (אמצע הדרך) 90FM",
+            "TitleEng": "90FM - Middle of the Road",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://90.cdnwz.net/90fm"
+            ]
+        },
+        {
+            "Title": "רדיו קול ברמה 91.2FM",
+            "TitleEng": "91.2FM - Kol BaRama",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolbarama_92.png",
+            "StreamFormat": "aac_adts",
+            "StreamUrls": [
+                "http://kb.cdnwz.net/kol_barama"
+            ]
+        },
+        {
+            "Title": "קול חי 93FM",
+            "TitleEng": "93FM - Kol Chai",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_chai_93fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "https://media2.93fm.co.il/live-new"
+            ]
+        },
+        {
+            "Title": "רדיו דרום 95.8FM",
+            "TitleEng": "95.8FM - Darom",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/darom_95.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://audio-darom.ecast.co.il/darom97fm"
+            ]
+        },
+        {
+            "Title": "קול רגע 96FM",
+            "TitleEng": "96FM - Kol Rega",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolrega_96fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "https://radio.streamgates.net/stream/KOLREGA"
+            ]
+        },
+        {
+            "Title": "אקו 99FM",
+            "TitleEng": "99FM - Echo",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://99.livecdn.biz/99fm",
+                "http://eco-live.mediacast.co.il/99fm"
+            ]
+        },
+        {
+            "Title": "רדיוס 100FM",
+            "TitleEng": "100FM - Radius",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "רדיו תל-אביב 102FM",
+            "TitleEng": "102FM - Tel-Aviv",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png",
+            "StreamFormat": "aac_adts",
+            "StreamUrls": [
+                "http://102.livecdn.biz/102fm_aac"
+            ]
+        },
+        {
+            "Title": "קול הים האדום 102FM",
+            "TitleEng": "102FM - Red Sea",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/redsea_102fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://eilat.cdnwz.net/102fm"
+            ]
+        },
+        {
+            "Title": "רדיו ללא הפסקה 103FM",
+            "TitleEng": "103FM - Lelo Hafsaka",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png",
+            "StreamFormat": "aac_adts",
+            "StreamUrls": [
+                "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+            ]
+        },
+        {
+            "Title": "קול הגליל העליון 105.3FM",
+            "TitleEng": "105.3FM - Hagalil HaElyon",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://1053.cdnwz.net/galil",
+                "http://radio.streamgates.net/stream/galil"
+            ]
+        },
+        {
+            "Title": "קול רמלה 106FM",
+            "TitleEng": "106FM - Ramla",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_ramla_106fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://84.94.229.99:5693/;"
+            ]
+        },
+        {
+            "Title": "קול גלים 106FM",
+            "TitleEng": "106FM - Kol Galim",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolgalim_106.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://switch2-streaming-212-83-eu.ilcast.com:8055/;"
+            ]
+        },
+        {
+            "Title": "הרדיו הבינתחומי 106.2FM",
+            "TitleEng": "106.2FM - IDC",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/IDC.jpg",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://194.153.101.160:8000/idc123.mp3"
+            ]
+        },
+        {
+            "Title": "רדיו חיפה 107.5FM",
+            "TitleEng": "107.5FM - Haifa",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",
+            "StreamFormat": "aac_adts",
+            "StreamUrls": [
+                "http://ads11.livecdn.biz:80/radiohaifa",
+                "http://1075.livecdn.biz/radiohaifa"
+            ]
+        },
+        {
+            "Title": "רדיו נוסטלגיה",
+            "TitleEng": "Nostalgy",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://194.213.4.197:8000/;"
+            ]
+        },
+        {
+            "Title": "קול המוסיקה",
+            "TitleEng": "Kol Hamusica",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3"
+            ]
+        },
+        {
+            "Title": "תרבות",
+            "TitleEng": "Tarbut",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3"
+            ]
+        },
+        {
+            "Title": "רשת ב",
+            "TitleEng": "Reshet Bet",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3"
+            ]
+        },
+        {
+            "Title": "רשת ג",
+            "TitleEng": "Reshet Gimel",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3"
+            ]
+        },
+        {
+            "Title": "מורשת",
+            "TitleEng": "Moreshet",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
+            ]
+        }
+    ]
+}
